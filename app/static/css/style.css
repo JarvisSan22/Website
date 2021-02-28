@@ -1,0 +1,20 @@
+* {
+    margin:5
+    padding:5
+    box-sizing: border-box;
+
+}
+
+
+body {
+
+    background: teal;
+    display: flex;
+    flex-flow:column;
+    min-height:100vh;
+    
+}
+
+main {
+    flex:1;
+}
